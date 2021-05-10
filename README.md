@@ -1,11 +1,20 @@
 # playdotjs_express-generator_test
- 
- 
- 
-play
+
+play.js で`express-generator` を試してみるリポジトリ
 
 
-```
+## 手順
+
+Working Copy も使ってる
+
+1. Github 上でリポジトリつくる
+1. Working Copy でclone
+1. play.js でWorking Copy のディレクトリをコピー
+
+
+
+
+``` package.json
 {
   "name": "playdotjs_express-generator_test",
   "version": "1.0.0",
